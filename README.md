@@ -17,7 +17,4 @@
 <p>
 </p>
 
-![img1](img/Screenshot_20240111-180309.png)
-![img1](img/Screenshot_20240111-180244.png)
-![img1](img/Screenshot_20240111-180252.png)
-![img1](img/Screenshot_20240111-180300.png)
+<img src="img/Screenshot_20240111-180244.png" width=30%><img src="img/Screenshot_20240111-180252.png" width=30%><img src="img/Screenshot_20240111-180300.png" width=30%>
