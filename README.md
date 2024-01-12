@@ -3,7 +3,6 @@
 <img src="img/Screenshot_20240111-233940.png" width=30%><img src="img/Screenshot_20240111-180252.png" width=30%><img src="img/Screenshot_20240111-180300.png" width=30%>
 
 <a href="https://github.com/subUserOne/ScanSoft/releases">Последний релиз</a>
-<a href="/releases">Последний релиз</a>
 
 <h2>Назначение</h2>
 <p>Приложение позволяет использовать мобильный телефон как терминал сбора данных (ТСД).<br>
